@@ -1,0 +1,4 @@
+repository "StockOptionSlide/StockOptionSlide@2475858484393@cloud"
+  path "/"
+    br "/main"
+    co "/main"
